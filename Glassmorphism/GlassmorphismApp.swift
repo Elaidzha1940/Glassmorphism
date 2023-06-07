@@ -1,9 +1,11 @@
+//  /*
 //
-//  GlassmorphismApp.swift
-//  Glassmorphism
+//  Project: Glassmorphism
+//  File: GlassmorphismApp.swift
+//  Created by: Elaidzha Shchukin
+//  Date: 06.06.2023
 //
-//  Created by Elaidzha Shchukin on 06.06.2023.
-//
+//  */
 
 import SwiftUI
 
